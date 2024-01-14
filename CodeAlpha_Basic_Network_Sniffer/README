@@ -1,0 +1,4 @@
+# This is a network or packet sniffer that is built with python which helps in capturing and analyzing network trafic.
+
+-Aim
+This projcet uses SCAPY to capture network traffic for more on scapy please vist the scapy offical documentation
